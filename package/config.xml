@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="mixer" version="0.1">
+  <name>MediaPlayer</name>
+  <icon src="icon.svg"/>
+  <content src="bin/mxer" type="application/x-executable"/>
+  <description>Simple PulseAudio mixer app</description>
+  <author>Matt Porter &lt;mporter@konsulko.com&gt;</author>
+  <license>APL 2.0</license>
+</widget>
+
+
